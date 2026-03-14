@@ -38,8 +38,8 @@ install.packages(c("shiny", "bslib", "ggplot2", "dplyr", "tidyr"))
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd individual_assignment
+git clone https://github.com/junliliu1/532_Individual_Assignment.git
+cd 532_Individual_Assignment
 ```
 
 2. Open R or RStudio and set the working directory to the project folder
@@ -55,7 +55,7 @@ The application will open in your default web browser at `http://127.0.0.1:XXXX`
 
 ## Deployment
 
-The live application is deployed on Posit Connect Cloud at: [Your Deployment URL]
+The live application is deployed on Posit Connect Cloud at: https://019ceae4-5499-6944-b853-3f75dd89d0e3.share.connect.posit.cloud/
 
 ## Data
 
